@@ -99,7 +99,7 @@
   },
   "resolutions": {
     "@types/react": "~18.0.14",
-    "expo-file-system": "15.4.2"
+    "expo-file-system": "15.4.0"
   },
   "peerDependencies": {
     "react": "*",
